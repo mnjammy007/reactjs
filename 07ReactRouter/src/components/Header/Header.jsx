@@ -16,7 +16,7 @@ export default function Header() {
             title: "Contact",
         },
         {
-            path: "/user/",
+            path: "/user/1",
             title: "User",
         },
         {
